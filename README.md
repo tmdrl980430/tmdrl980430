@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Korea AeroSpace Univ. App launching Club University MakeUs Challenge 2nd Head (2022.02 ~ 2022.08)
 
 ## Intro
-####
+######
 👋 Hi, I’m @Seung Ki Kim
 🇰🇷 I'm Korean.
 👨🏻‍🎓 My major is software engineering
