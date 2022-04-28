@@ -26,18 +26,18 @@ Central MakeUs Challenge. Project Manager and Android developer(2021.05 ~ 2021.0
 Korea AeroSpace Univ. App launching Club University MakeUs Challenge 1st Head (2021.08 ~ 2022.02)
 Korea AeroSpace Univ. App launching Club University MakeUs Challenge 2nd Head (2022.02 ~ 2022.08)
 
-#### Intro
+## Intro
 👋 Hi, I’m @Seung Ki Kim
 🇰🇷 I'm Korean.
 👨🏻‍🎓 My major is software engineering
 
-#### Learning Now!!
+## Learning Now!!
 👀 I'm interested in mobile development
 ######
 - Android
 - React
 - React-Native
 
-#### Tech Stack
-
+## Tech Stack
+[![Android](https://img.shields.io/badge/Android(Kotlin)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Central-MakeUs/SOUP_AOS)
 
