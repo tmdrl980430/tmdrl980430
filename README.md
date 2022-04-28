@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ## Intro
 ######
-👋 Hi, I’m @Seung Ki Kim
-🇰🇷 I'm Korean.
-👨🏻‍🎓 My major is software engineering
+- 👋 Hi, I’m @Seung Ki Kim
+- 🇰🇷 I'm Korean.
+- 👨🏻‍🎓 My major is software engineering
 
 ## Learning Now!!
 👀 I'm interested in mobile development
