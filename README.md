@@ -34,5 +34,13 @@ Here are some ideas to get you started:
 - React-Native
 
 ## Tech Stack
-https://img.shields.io/badge/Android-Kotln-brightgreen https://img.shields.io/badge/Java-brightgreen https://img.shields.io/badge/C-brightgreen https://img.shields.io/badge/C++-brightgreen https://img.shields.io/badge/Python-brightgreen https://img.shields.io/badge/JavaScript-brightgreen https://img.shields.io/badge/HTML-brightgreen https://img.shields.io/badge/CSS-brightgreen
+<img src="https://img.shields.io/badge/Android-Kotln-brightgreen?style=for-the-badge&logo=이미지 이름&logoColor=black">
+https://img.shields.io/badge/Android-Kotln-brightgreen 
+https://img.shields.io/badge/Java-brightgreen 
+https://img.shields.io/badge/C-brightgreen 
+https://img.shields.io/badge/C++-brightgreen 
+https://img.shields.io/badge/Python-brightgreen 
+https://img.shields.io/badge/JavaScript-brightgreen 
+https://img.shields.io/badge/HTML-brightgreen 
+https://img.shields.io/badge/CSS-brightgreen
 
