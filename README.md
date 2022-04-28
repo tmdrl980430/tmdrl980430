@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Seung Ki Kim
-Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02)
-Central MakeUs Challenge. Project Manager and Android developer(2021.05 ~ 2021.08)
-Korea AeroSpace Univ. App launching Club University MakeUs Challenge 1st Head (2021.08 ~ 2022.02)
-Korea AeroSpace Univ. App launching Club University MakeUs Challenge 2nd Head (2022.02 ~ 2022.08)
+######
+- Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02)
+- SoftSquared. 11th Android Session(2020.11 ~ 2021.02)
+- Central MakeUs Challenge. Project Manager and Android developer(2021.05 ~ 2021.08)
+- Korea AeroSpace Univ. App launching Club University MakeUs Challenge 1st Head (2021.08 ~ 2022.02)
+- Korea AeroSpace Univ. App launching Club University MakeUs Challenge 2nd Head (2022.02 ~ 2022.08)
 
 ## Intro
 👋 Hi, I’m @Seung Ki Kim
