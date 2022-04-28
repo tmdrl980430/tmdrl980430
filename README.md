@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there 👋%20render&fontSize=90)
-
-
-[![Android](https://img.shields.io/badge/Android(Kotlin)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Central-MakeUs/SOUP_AOS)
-
 # Seung Ki Kim
 Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02)
 Central MakeUs Challenge. Project Manager and Android developer(2021.05 ~ 2021.08)
