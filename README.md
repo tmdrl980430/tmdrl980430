@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - React-Native
 
 ## Tech Stack
-[![Android](https://img.shields.io/badge/Android(Kotlin)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Central-MakeUs/SOUP_AOS)
+https://img.shields.io/badge/Android-Kotln-brightgreen https://img.shields.io/badge/Java-brightgreen https://img.shields.io/badge/C-brightgreen https://img.shields.io/badge/C++-brightgreen https://img.shields.io/badge/Python-brightgreen https://img.shields.io/badge/JavaScript-brightgreen https://img.shields.io/badge/HTML-brightgreen https://img.shields.io/badge/CSS-brightgreen
 
