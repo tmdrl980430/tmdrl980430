@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tmdrl980430/tmdrl980430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
